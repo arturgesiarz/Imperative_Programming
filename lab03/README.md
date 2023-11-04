@@ -19,9 +19,9 @@ The function which, based on a given discrete probability distribution (pmf() fu
 
 + `monty hall(...)`
 The function which simulates n <a href="https://en.wikipedia.org/wiki/Monty_Hall_problem">games<a/>. Wherein: 
-1. In each game, the function calls rand() exactly 2 times.
-2. In the first draw, the number of the door behind which there is a prize is selected. 
-3. In the second draw - the number of the door that the player chooses at the beginning of the <a href="https://en.wikipedia.org/wiki/Monty_Hall_problem">game<a/>.
+    1. In each game, the function calls rand() exactly 2 times.
+    2. In the first draw, the number of the door behind which there is a prize is selected. 
+    3. In the second draw - the number of the door that the player chooses at the beginning of the <a href="https://en.wikipedia.org/wiki/Monty_Hall_problem">game<a/>.
 
 
 
