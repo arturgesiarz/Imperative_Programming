@@ -40,7 +40,7 @@ Function frees memory of the data pointed to by d.
 
 # Meaning commend in the file:
 
-## File vect.c
+## File list.c
 
 + `f: push_front(list, value)`
 + `b: push_back(list, value)`
